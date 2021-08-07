@@ -1,3 +1,7 @@
+Olá! Que bom te ver por aqui! 
+
+##
+
 - 🔭 I’m currently working on: Technical support
 - 🌱 I’m currently learning: Android language
 - 📫 How to reach me: https://www.linkedin.com/in/emilianocallegari/
