@@ -1,7 +1,6 @@
-- 🔭 I’m currently working on: 
-- 🌱 I’m currently learning: Kotlin
+- 🔭 I’m currently working on: Technical support
+- 🌱 I’m currently learning: Android language
 - 📫 How to reach me: https://www.linkedin.com/in/emilianocallegari/
-- 😄 Pronouns: 
  
 
 <div>
