@@ -1,6 +1,5 @@
-Olá! Que bom te ver por aqui! 
+## Olá! Que bom te ver por aqui! 
 
-##
 
 - 🔭 I’m currently working on: Technical support
 - 🌱 I’m currently learning: Android language
